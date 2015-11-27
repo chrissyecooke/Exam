@@ -1,0 +1,2 @@
+  121  history | grep "*git"
+  122  history | grep "*git" > history.txt
